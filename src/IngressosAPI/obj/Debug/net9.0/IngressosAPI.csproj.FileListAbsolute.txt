@@ -52,3 +52,4 @@ C:\Users\PcGamer\Desktop\TicketSystem\src\IngressosAPI\obj\Debug\net9.0\refint\I
 C:\Users\PcGamer\Desktop\TicketSystem\src\IngressosAPI\obj\Debug\net9.0\IngressosAPI.pdb
 C:\Users\PcGamer\Desktop\TicketSystem\src\IngressosAPI\obj\Debug\net9.0\IngressosAPI.genruntimeconfig.cache
 C:\Users\PcGamer\Desktop\TicketSystem\src\IngressosAPI\obj\Debug\net9.0\ref\IngressosAPI.dll
+c:\Users\PcGamer\Desktop\TicketSystem\src\IngressosAPI\obj\Debug\net9.0\IngressosAPI.sourcelink.json

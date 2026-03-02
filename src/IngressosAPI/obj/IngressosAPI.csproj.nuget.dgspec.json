@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj": {}
+    "c:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj": {
+    "c:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj",
+        "projectUniqueName": "c:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj",
         "projectName": "IngressosAPI",
-        "projectPath": "C:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj",
+        "projectPath": "c:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\IngressosAPI.csproj",
         "packagesPath": "C:\\Users\\PcGamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\obj\\",
+        "outputPath": "c:\\Users\\PcGamer\\Desktop\\TicketSystem\\src\\IngressosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PcGamer\\AppData\\Roaming\\NuGet\\NuGet.Config"
