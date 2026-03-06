@@ -1,5 +1,5 @@
 CREATE TABLE Usuarios(
-    CPF VARCHAR(11) PRIMARY KEY,
+    CPF CHAR(11) PRIMARY KEY,
     Nome VARCHAR(100) NOT NULL,
     Email VARCHAR(150) NOT NULL
 );
@@ -20,7 +20,7 @@ CREATE TABLE Cupons(
 
 CREATE TABLE Reservas(
     Id INT PRIMARY KEY IDENTITY(1,1),
-    UsuarioCPF VARCHAR(11) NOT NULL,
+    UsuarioCPF CHAR(11) NOT NULL,
     EventoID INT NOT NULL,
     CupomUtilizado VARCHAR(50),
     ValorFinalPago DECIMAL(10,2) NOT NULL,
