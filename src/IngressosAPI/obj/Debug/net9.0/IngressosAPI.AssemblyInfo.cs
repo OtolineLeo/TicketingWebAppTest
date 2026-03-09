@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IngressosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381f97d584f04d1e2109e98944693d347bf2d92f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb106997527774b3e39098a6de43e03547dcf3d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("IngressosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IngressosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

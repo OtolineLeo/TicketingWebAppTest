@@ -14,8 +14,8 @@ CREATE TABLE Eventos(
 
 CREATE TABLE Cupons(
     Codigo VARCHAR(50) PRIMARY KEY,
-    PorcetagemDesconto DECIMAL(5,2) NOT NULL,
-    ValorMinimo DECIMAL (5,2) NOT NULL
+    PorcentagemDesconto DECIMAL(5,2) NOT NULL,
+    ValorMinimo DECIMAL (10,2) NOT NULL
 );
 
 CREATE TABLE Reservas(
@@ -29,7 +29,7 @@ CREATE TABLE Reservas(
         FOREIGN KEY (UsuarioCPF) REFERENCES Usuarios(CPF),
 
     CONSTRAINT FK_Reservas_Eventos
-        FOREIGN KEY (EventoId) REFERENCES Evento(Id),
+        FOREIGN KEY (EventoId) REFERENCES Eventos(Id),
 
     CONSTRAINT FK_Reservas_Cupons
         FOREIGN KEY (CupomUtilizado) REFERENCES Cupons(Codigo)
